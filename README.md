@@ -1,1 +1,1 @@
-# TMS---with-CSV-files
+On a broad level, the python file "Algorithm_v11_read csv.py" pulls data from the SQL database connected and use the pulled data to identify wash trades conducted by a trader. Dummy data were used - please reference "TradingSolution_Data.csv" and create a table in SQL using these data before proceeding. 
